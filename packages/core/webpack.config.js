@@ -27,5 +27,6 @@ module.exports = {
     "react-dom": "reactDOM",
     jquery: "jquery",
   },
-  plugins: []
+  plugins: [],
+  devtool: false
 };
